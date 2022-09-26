@@ -10,7 +10,7 @@ A responsive landing page of the game "Pokémon Let's Go, Pikachu", developed wi
 ---
 
 ## 👁️‍🗨️ Preview
-Link: [View Demo]()<br>
+Link: [View Demo](https://zejsneto.github.io/Responsive-Landing-Page-Pokemon-Lets-Go-Pikachu/)<br>
 
 ---
 
