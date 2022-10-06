@@ -149,6 +149,7 @@ main{
     }
 }
 
+/* PHONE */
 @media (max-width:640px) {
     .description__title{
         font-size: 10vw;
