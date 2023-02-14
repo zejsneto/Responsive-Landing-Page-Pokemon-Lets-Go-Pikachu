@@ -15,11 +15,20 @@ Link: [View Demo](https://zejsneto.github.io/Responsive-Landing-Page-Pokemon-Let
 <p align="center" >
   <img width="90%" src="/repository-imgs/img01.png" />
 </p>
+<p align="center">
+Desktop
+</p>
 <p align="center" >
   <img width="40%" src="/repository-imgs/img02.png" />
 </p>
+<p align="center">
+Tablet
+</p>
 <p align="center" >
   <img width="40%" src="/repository-imgs/img03.png" />
+</p>
+<p align="center">
+Phone
 </p>
 
 ---
